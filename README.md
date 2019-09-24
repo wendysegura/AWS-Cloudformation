@@ -1,4 +1,4 @@
-# Deploy a High-Availability Web App using CloudFormation
+# This project deploys the cloud infraestructure and a basic website on AWS, using AWS Cloud Formation
 
 Link showing it successfully works:</br>
 http://serve-WebAp-11D6GNCP7035O-557630779.us-west-2.elb.amazonaws.com
@@ -36,8 +36,6 @@ To view your website click on Exports and then click on link next to **DNSName-L
 
 <img src="https://github.com/wendysegura/AWS-Cloudformation/blob/master/Images/Exports.png" width="500" height="400"> </br>
 
-# Udacity Project Architecture
-<img src="https://github.com/wendysegura/AWS-Cloudformation/blob/master/Images/Udacity-Infrastructure.jpg" width="900" height="600"> 
 
 
 # Project Specifications for the Project (Ruberic)
