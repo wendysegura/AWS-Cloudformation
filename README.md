@@ -21,8 +21,8 @@ Link on How to Set AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/cli
 Open your Terminal </br>
 Download Repository with Code </br>
 In terminal run:</br>
-`git clone git@github.com:wendysegura/CloudDevOpsEngineer-Program.git`</br>
-`cd CloudDevOpsEngineer-Program/CloudFormation/`</br>
+`git clone git@github.com:wendysegura/AWS-Cloudformation.git`</br>
+`cd AWS-Cloudformation`</br>
 
 Now we can create the stacks:</br>
 `./create.sh infrastructure infrastructure.yml infra_parameters.json`</br>
