@@ -1,4 +1,4 @@
-# This project deploys the cloud infraestructure and a basic website on AWS, using AWS Cloud Formation
+## This project deploys the cloud infraestructure and a basic website on AWS, using AWS Cloud Formation</br>
 
 Link showing it successfully works:</br>
 http://serve-WebAp-11D6GNCP7035O-557630779.us-west-2.elb.amazonaws.com
