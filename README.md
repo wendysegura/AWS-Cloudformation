@@ -10,7 +10,7 @@ http://serve-WebAp-11D6GNCP7035O-557630779.us-west-2.elb.amazonaws.com
 1) Go to services
 2) Search for CloudFormation click on it
 3) Now you can view the stacks you will be creating from the terminal</br>
-<img src="https://github.com/wendysegura/AWS-Cloudformation/Images/Cloudformation.png" width="500" height="400"> 
+<img src="https://github.com/wendysegura/AWS-Cloudformation/tree/master/Images/Cloudformation.png" width="500" height="400"> 
 
 
 ### Login to your AWS CLI 
@@ -30,14 +30,14 @@ Once that stack has completed you can run:</br>
 
 You can go to your aws console you should have something like screenshot below:</br>
 
-<img src="https://github.com/wendysegura/AWS-Cloudformation/Images/stacks.png" width="400" height="500"> </br>
+<img src="https://github.com/wendysegura/AWS-Cloudformation/tree/master/Images/stacks.png" width="400" height="500"> </br>
 
 To view your website click on Exports and then click on link next to **DNSName-Link** like screenshot below:</br>
 
-<img src="https://github.com/wendysegura/AWS-Cloudformation/Images/Exports.png" width="500" height="400"> </br>
+<img src="https://github.com/wendysegura/AWS-Cloudformation/tree/master/Images/Exports.png" width="500" height="400"> </br>
 
 # Udacity Project Architecture
-<img src="https://github.com/wendysegura/AWS-Cloudformation/Images/Udacity-Infrastructure.jpg" width="900" height="600"> 
+<img src="https://github.com/wendysegura/AWS-Cloudformation/tree/master/Images/Udacity-Infrastructure.jpg" width="900" height="600"> 
 
 
 # Project Specifications for the Project (Ruberic)
